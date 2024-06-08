@@ -1,12 +1,12 @@
 {
-  "name": "setup-ngnix-npm",
+  "name": "nginx-setup-package",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "An npm package to automate Nginx setup and configuration",
+  "main": "setup-nginx.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "setup-nginx": "node setup-nginx.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Nasir Shigri",
+  "license": "ISC",
+  "dependencies": {}
 }
