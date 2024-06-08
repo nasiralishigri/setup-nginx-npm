@@ -1,6 +1,6 @@
 {
   "name": "nginx-setup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package to automate Nginx setup and configuration",
   "main": "setup-nginx.js",
   "scripts": {
